@@ -5,4 +5,8 @@ Window {
     height: 480
     visible: true
     title: qsTr("Hello World")
+
+    Text{
+        text: "Texto del dev 1"
+    }
 }
