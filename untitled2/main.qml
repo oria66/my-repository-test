@@ -7,6 +7,6 @@ Window {
     title: qsTr("Hello World")
 
     Text{
-        text: "Texto del dev 1"
+        text: "Texto del dev 1 mejorado"
     }
 }
